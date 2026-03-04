@@ -1,0 +1,57 @@
+{
+  "site": {
+    "name": "Nawaya",
+    "tagline": "Set your intention before every act of worship",
+    "description": "Your guide to correcting intentions in daily acts of worship",
+    "search_placeholder": "Search for an intention...",
+    "intentions_count": "intentions",
+    "no_results": "No results found"
+  },
+  "categories": {
+    "all": "All"
+  },
+  "actions": {
+    "copy": "Copy Intention",
+    "copy_all": "Copy All Intentions",
+    "copied": "Copied!",
+    "close": "Close",
+    "source": "Source",
+    "view_details": "View Details",
+    "back": "Back"
+  },
+  "header": {
+    "home": "Home",
+    "about": "About"
+  },
+  "footer": {
+    "credit": "Nawaya — Guide to Intentions in Acts of Worship",
+    "disclaimer": "This is an unofficial personal effort. Content is derived from trusted scholarly sources."
+  },
+  "admin": {
+    "title": "Admin Panel",
+    "login": "Log In",
+    "password": "Password",
+    "wrong_password": "Incorrect password",
+    "categories": "Categories",
+    "intentions": "Intentions",
+    "add_category": "Add Category",
+    "add_intention": "Add Intention",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm_delete": "Are you sure you want to delete this?",
+    "slug": "Slug",
+    "name_ar": "Name (Arabic)",
+    "name_en": "Name (English)",
+    "icon": "Icon",
+    "sort_order": "Sort Order",
+    "text_ar": "Text (Arabic)",
+    "text_en": "Text (English)",
+    "source_ar": "Source (Arabic)",
+    "source_en": "Source (English)",
+    "category": "Category",
+    "published": "Published",
+    "logout": "Log Out"
+  }
+}

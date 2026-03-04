@@ -1,0 +1,12 @@
+[    2057ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://taraweeh.org/:0
+[   25122ms] [ERROR] Error: Minified React error #310; visit https://react.dev/errors/310 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at wt (https://taraweeh.org/assets/index-CLXGXVyK.js:9:49374)
+    at Object.fp [as useCallback] (https://taraweeh.org/assets/index-CLXGXVyK.js:9:56792)
+    at u.useCallback (https://taraweeh.org/assets/sentry-BRUxJaCE.js:1:7069)
+    at VO (https://taraweeh.org/assets/index-CLXGXVyK.js:77:14095)
+    at pu (https://taraweeh.org/assets/index-CLXGXVyK.js:9:48096)
+    at ku (https://taraweeh.org/assets/index-CLXGXVyK.js:9:70888)
+    at Gp (https://taraweeh.org/assets/index-CLXGXVyK.js:9:81220)
+    at xg (https://taraweeh.org/assets/index-CLXGXVyK.js:9:116973)
+    at eS (https://taraweeh.org/assets/index-CLXGXVyK.js:9:116019)
+    at af (https://taraweeh.org/assets/index-CLXGXVyK.js:9:115851) @ https://taraweeh.org/assets/index-CLXGXVyK.js:8
